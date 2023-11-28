@@ -76,6 +76,27 @@ function App() {
 						</div>
 					</div>
 				</section>
+				<p className="mt-6">
+					Challenge by{" "}
+					<a
+						href="https://www.frontendmentor.io?ref=challenge"
+						target="_blank"
+						rel="noreferrer"
+						className="text-blue-500"
+					>
+						Frontend Mentor
+					</a>
+					. Coded by{" "}
+					<a
+						href="https://github.com/replayzor"
+						target="_blank"
+						rel="noreferrer"
+						className="text-blue-500"
+					>
+						Ionut Oltean
+					</a>
+					.
+				</p>
 			</article>
 		</main>
 	);
